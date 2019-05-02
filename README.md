@@ -10,4 +10,4 @@ Icons for the following ACES-related file formats are included:
 
  * **ACESclip** * sidecar file (`.ACESclip.xml` extension; specs under review)
  * **ACESclip** manifest file (`.ACESclip.xml` extension), cfr. [`TB-2019-009`, _ACES Clip-level Metadata File Format Definition and Usage_](http://j.mp/TB-2014-009])
- * CommonLUT Format * (**CLF**, `.clf` extension; specs under review)
+ * CLF * color lookup table file (CommonLUT Format, `.clf` extension; specs under review)
