@@ -8,5 +8,6 @@ Designed using Adobe _Photoshop CC_, sizes 512×512 down to 16×16 pixels, at 32
 
 Icons for the following ACES-related file formats are included:
 
- * **ACESclip** sidecar file format (`.ACESclip.xml` extension), cfr. [`TB-2019-009`, _ACES Clip-level Metadata File Format Definition and Usage_](http://j.mp/TB-2014-009])
- * CommonLUT Format (**CLF**, `.clf` extension)
+ * **ACESclip** * sidecar file (`.ACESclip.xml` extension, specs currently under review)
+ * **ACESclip** manifest file (`.ACESclip.xml` extension), cfr. [`TB-2019-009`, _ACES Clip-level Metadata File Format Definition and Usage_](http://j.mp/TB-2014-009])
+ * CommonLUT Format * (**CLF**, `.clf` extension)
