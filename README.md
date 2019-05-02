@@ -5,6 +5,7 @@ Each filetype icon is available as single-icon for both Windows (`.ico`) and App
 
 Icons designed using Adobe _Photoshop CC_, sizes 512×512 down to 16×16 pixels, at 32bits/pixel, 256-colors and 16-colors (EGA palette), with nonlinear scaling of graphic details (“opticals”).
 
-The following ACES-specific (or less specific) file formats do have a filetype icons in this repository.
+Icons for the following ACES-related file formats are included:
+
  * **ACESclip** sidecar/container file format (`.ACESclip.xml` extension), cfr. [`TB-2019-009`, _ACES Clip-level Metadata File Format Definition and Usage_](http://j.mp/TB-2014-009])
  * CommonLUT Format (**CLF**, `.clf` extension)
