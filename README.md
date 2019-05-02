@@ -1,7 +1,5 @@
 # ACES-fileformat-icons
-Icons for the 
-.
-Based on the Academy Color Encoding System (ACES) [specifications](https://github.com/ampas/).
+Icons for the new file formats introduced with the upcoming release of Academy Color Encoding System (ACES) [specifications](https://github.com/ampas/).
 
 Available as single-icon for both Windows (`.ico`) and Apple (`.icns`) file formats.
 
