@@ -1,6 +1,9 @@
 # ACES-fileformat-icons
 Icons for the new file formats introduced with the upcoming release of the Academy Color Encoding System (ACES) [specifications](https://github.com/ampas/).
 
+![ACESclip](ACESclip/ACESclip.jpg)
+![CLF](CLF/CommonLUT-Format.jpg)
+
 Each filetype icon is available in itw own subfolder, both as single-icon for both Windows (`.ico`) and Apple (`.icns`) file formats. A global icon library (`.icl`) including all of the above is also present in the root folder.
 
 Icons Designed by Walter Arrighetti
