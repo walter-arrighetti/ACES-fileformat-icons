@@ -5,7 +5,7 @@ Icons for the new file formats introduced with the upcoming release of the Acade
 ![CLF](CLF/CLF.jpg)
 ![ACESclip (old)](ACESclip_manifest/ACESclip.jpg)
 
-Each filetype icon is available in itw own subfolder, both as single-icon for both Windows (`.ico`) and Apple (`.icns`) file formats. A global icon library (`.icl`) including all of the above is also present in the root folder.
+Each filetype icon is available in itw own subfolder, as single-icon format for both Windows (`.ico`) and Apple (`.icns`) file formats. A global icon library (`.icl`) including all of the above is also present in the root folder.
 The Adobe *Photoshop* original template (`.psd` format) may also be present.
 
 Sizes 512×512 down to 16×16 pixels, at 32bits/pixel, 256-colors and 16-colors (EGA palette), with nonlinear scaling of graphic details (“opticals”).
