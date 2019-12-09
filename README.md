@@ -1,8 +1,8 @@
 # ACES-fileformat-icons
 Icons for the new file formats introduced with the upcoming release of the Academy Color Encoding System (ACES) [specifications](https://github.com/ampas/).
 
+![AMF](AMF/AMF.jpg)
 ![CLF](CLF/CLF.jpg)
-![ACESclip](ACESclip/ACESclip.jpg)
 ![ACESclip (old)](ACESclip_manifest/ACESclip.jpg)
 
 Each filetype icon has its own subfolder; single-icon file formats are available for Windows (`.ico`) and Apple (`.icns`). A global icon library (`.icl`) including all of the above is also present in the root folder.
